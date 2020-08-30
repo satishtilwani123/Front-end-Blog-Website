@@ -1,0 +1,56 @@
+.header{
+    margin: 0 auto;
+    padding: 0 auto;
+}
+
+.bg-cover
+{
+    background-image: url('img/blog.png');
+    background-size: cover; 
+	background-repeat: no-repeat;
+}
+
+
+.bg-color
+{
+    background-image: url('img/color.png');
+    background-size: cover; 
+    background-repeat: no-repeat; 
+}
+
+.content{
+    margin: 0px auto;
+    padding: 60px 0px 60px 0px;
+    min-height: 400px;
+}
+
+.set
+{
+    margin: 0px auto;
+    padding: 60px 0px 60px 0px;
+}
+
+.bg
+{
+    background-image: url('img/layout1.png');
+    background-size: cover; 
+    background-repeat: no-repeat;    
+    margin: 40px 0px 40px 0px;
+}
+
+.header
+{
+    margin: 0 auto;
+    padding: 60px 0px 60px 0px;
+}
+
+.footer
+{
+    background-color: black;
+    margin: 0px auto;
+    padding: 20px 0px 20px 0px;
+    color: whitesmoke;
+}
+
+
+
